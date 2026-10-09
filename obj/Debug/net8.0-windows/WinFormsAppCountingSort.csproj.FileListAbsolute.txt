@@ -1,0 +1,17 @@
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSort\bin\Debug\net8.0-windows\WinFormsAppCountingSort.exe
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSort\bin\Debug\net8.0-windows\WinFormsAppCountingSort.deps.json
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSort\bin\Debug\net8.0-windows\WinFormsAppCountingSort.runtimeconfig.json
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSort\bin\Debug\net8.0-windows\WinFormsAppCountingSort.dll
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSort\bin\Debug\net8.0-windows\WinFormsAppCountingSort.pdb
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSort\obj\Debug\net8.0-windows\WinFormsAppCountingSort.csproj.GenerateResource.cache
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSort\obj\Debug\net8.0-windows\WinFormsAppCountingSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSort\obj\Debug\net8.0-windows\WinFormsAppCountingSort.AssemblyInfoInputs.cache
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSort\obj\Debug\net8.0-windows\WinFormsAppCountingSort.AssemblyInfo.cs
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSort\obj\Debug\net8.0-windows\WinFormsAppCountingSort.csproj.CoreCompileInputs.cache
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSort\obj\Debug\net8.0-windows\WinFormsAppCountingSort.dll
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSort\obj\Debug\net8.0-windows\refint\WinFormsAppCountingSort.dll
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSort\obj\Debug\net8.0-windows\WinFormsAppCountingSort.pdb
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSort\obj\Debug\net8.0-windows\WinFormsAppCountingSort.genruntimeconfig.cache
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSort\obj\Debug\net8.0-windows\ref\WinFormsAppCountingSort.dll
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSort\obj\Debug\net8.0-windows\WinFormsAppCountingSort.Counting_Sort.resources
+D:\useful files\university\2_curs\1_term\ASD\lab_4\WinFormsAppCountingSort\obj\Debug\net8.0-windows\WinFormsAppCountingSort.Properties.Resources.resources
